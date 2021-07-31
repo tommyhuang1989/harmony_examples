@@ -41,6 +41,25 @@
         "label": "$string:entry_MainAbility",
         "type": "page",
         "launchType": "standard"
+      },
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "orientation": "unspecified",
+        "name": "com.bugfine.harmony_example.slice.SettingAbilitySlice",
+        "icon": "$media:icon",
+        "description": "$string:settingabilityslice_description",
+        "label": "$string:entry_SettingAbilitySlice",
+        "type": "page",
+        "launchType": "standard"
       }
     ]
   }

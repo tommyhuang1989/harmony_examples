@@ -11,6 +11,18 @@
     {
       "name": "mainability_HelloWorld",
       "value": "你好，世界"
+    },
+    {
+      "name": "entry_SettingAbilitySlice",
+      "value": "entry_SettingAbilitySlice"
+    },
+    {
+      "name": "settingabilityslice_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "settingabilityslice_HelloWorld",
+      "value": "你好，世界"
     }
   ]
 }
